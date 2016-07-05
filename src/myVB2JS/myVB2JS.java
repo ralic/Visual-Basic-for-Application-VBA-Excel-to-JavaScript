@@ -39,8 +39,8 @@ public class myVB2JS {
      */
     public static void main(String[] args) {
         // setup variable
-        args = new String[1];
-        args[0] = "./test/test.vb";
+//        args = new String[1];
+//        args[0] = "./test/test.vb";
         ArrayList<String> vbCode = new ArrayList<>();
 
         System.out.println("[VB] Before Conversion");
